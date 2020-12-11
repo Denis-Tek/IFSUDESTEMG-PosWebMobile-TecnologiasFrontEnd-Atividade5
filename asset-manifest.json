@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/css/main.5efe5679.chunk.css",
+    "main.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/main.808b0371.chunk.js",
+    "main.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/main.808b0371.chunk.js.map",
+    "runtime-main.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/runtime-main.98a3cdf9.js",
+    "runtime-main.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/runtime-main.98a3cdf9.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ae95758c.chunk.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/2.ae95758c.chunk.js",
+    "static/js/2.ae95758c.chunk.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/2.ae95758c.chunk.js.map",
+    "static/js/3.29faba02.chunk.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/3.29faba02.chunk.js",
+    "static/js/3.29faba02.chunk.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/3.29faba02.chunk.js.map",
+    "index.html": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5efe5679.chunk.css.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/css/main.5efe5679.chunk.css.map",
+    "static/js/2.ae95758c.chunk.js.LICENSE.txt": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade5/static/js/2.ae95758c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a3cdf9.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ae95758c.chunk.js",
+    "static/css/main.5efe5679.chunk.css",
+    "static/js/main.808b0371.chunk.js"
+  ]
+}
